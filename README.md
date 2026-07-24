@@ -549,19 +549,4 @@ DevOps Deployment Project
 
 This project was developed for educational and DevOps deployment demonstration purposes.
 
-```
-
-### One small improvement I'd recommend
-
-After pushing this README, create a file named `.gitignore` (if you don't already have one) with at least:
-
-```gitignore
-node_modules/
-.env
-.env.*
-coverage/
-npm-debug.log
-```
-
-This keeps secrets and unnecessary files out of GitHub.
 
